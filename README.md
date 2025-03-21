@@ -1,7 +1,11 @@
 <h1 align="left">Hi 👋, I'm Mayur </h1>
 
 ###
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shelkemayur4700.shelkemayur4700&left_color=grey&right_color=blue"  />
+</div>
 
+###
 <p align="left">A programmer and web developer from india.</p>
 
 ###
